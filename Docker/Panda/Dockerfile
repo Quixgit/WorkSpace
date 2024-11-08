@@ -1,1 +1,1 @@
-FROM baseImage dfsf 
+FROM baseImage
