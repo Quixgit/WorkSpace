@@ -15,5 +15,6 @@ func main() {
 		return
 	}
 	fmt.Println(string(output))
+
 	fmt.Println("Обновленеи пакетов линукс завершено")
 }
