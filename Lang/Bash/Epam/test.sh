@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Напишите название директории "
+echo "ÐÐ°Ð¿Ð¸ÑÐ¸ÑÐµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¸ÑÐµÐºÑÐ¾ÑÐ¸Ð¸ "
 read  dirname
-mkdir $dirname
+mkdir $dirna000
